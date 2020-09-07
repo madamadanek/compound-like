@@ -47,7 +47,6 @@ comptroller._setPriceOracle(TYZaQKWoaLhjddU9EaFQVsE2N15BESPPXq)
 
 * 开启borrow
 在comtroller里开启对应CErc20代币的借贷功能
-_setBorrowPaused(TKFkvYEF7QJqaW5sbWt89FAQHd4zqzVGuT, true)
 
 * 设置资产抵押系数
 _setCollateralFactor(TKFkvYEF7QJqaW5sbWt89FAQHd4zqzVGuT, 500000000000000000)
